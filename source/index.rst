@@ -16,6 +16,9 @@ Projects for you to do:
    KUKA LBR iiwa external E-stop <texts/kuka_estop.rst>
    Possible projects for industry in Årdal <texts/aardal.rst>
    Pally <texts/pally.rst>
+   3D simulation of the lab <texts/lab_gazebo.rst>
+   Autonomous driving at the lab <texts/lab_routes.rst>
+   Map and route the lab for cleaning <texts/robot_cleaner.rst>
 
 
 Previous projects:
