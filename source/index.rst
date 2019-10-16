@@ -15,6 +15,16 @@ Projects for you to do:
    Engineers with a robot getting coffee <texts/auto_coffee.rst>
    KUKA LBR iiwa external E-stop <texts/kuka_estop.rst>
    Possible projects for industry in Årdal <texts/aardal.rst>
+   Pally <texts/pally.rst>
+
+
+Previous projects:
+
+.. toctree::
+   :maxdepth: 1
+
+   KUKA LBR iiwa + vision <texts/kuka_vision.rst>
+   Autowall <texts/autowall.rst>
 
 .. _Øyrane: https://www.google.com/maps/place/HVL+Robotics+Lab/@61.4590375,5.8326453,17z/data=!3m1!4b1!4m5!3m4!1s0x4616333d5f3d88b5:0x2025abbba16257dd!8m2!3d61.459035!4d5.8348393
 
