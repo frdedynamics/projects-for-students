@@ -1,5 +1,5 @@
 ****************************
-Testbed for a robot arm Variable-Stiffness Actuator (VSA)
+Testbench for a robot arm Variable-Stiffness Actuator (VSA)
 ****************************
 
 Contact
@@ -15,6 +15,6 @@ Variable-Stiffness Actuators (VSA) are used in robot arms to regulate the physic
 
 A previous project at the University of Plymouth in the UK developed a 7 DOF robot arm with 5-6 VSAs, which is easy to manufacture with regular FFF 3D printers: https://mstoelen.github.io/GummiArm/ The spin-out company Fieldwork Robotics Ltd works (with HVL) to apply such robot arms in picking berries, fruit and vegetables in horticulture.
 
-However, to fully understand such actuators, and to use them in teaching, we would like to build a fixed testbed for 1 joint with such a VSA (3D printed, with composite tendons, and Dynamixel digital servomotors). This project is about planning, designing and implementing such a testbed, which should include an ability to measure position, velocity and torque at the output. 
+However, to fully understand such actuators, and to use them in teaching, we would like to build a fixed testbench for 1 joint with such a VSA (3D printed, with composite tendons, and Dynamixel digital servomotors). This project is about planning, designing and implementing such a testbench, which should include an ability to measure position, velocity and torque at the output. 
 
 Please contact me at martin.fodstad.stolen@hvl.no if you are interested in knowing more about this project.
