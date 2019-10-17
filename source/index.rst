@@ -22,6 +22,7 @@ Projects for you to do:
    Tibber, automate sustainability reporting <texts/tibber_sustain.rst>
    Testbench for a robot arm Variable-Stiffness Actuator (VSA) <texts/vsa_testbench.rst>
    Upgrade 3D printers with camera and app control <texts/octoprint.rst>
+   Flight sim, collect data from 6 DOF motion platform <texts/flightsim_read.rst>
 
 Previous projects:
 
