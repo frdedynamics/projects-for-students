@@ -21,6 +21,7 @@ Projects for you to do:
    Map and route the lab for cleaning <texts/robot_cleaner.rst>
    Tibber, automate sustainability reporting <texts/tibber_sustain.rst>
    Testbench for a robot arm Variable-Stiffness Actuator (VSA) <texts/vsa_testbench.rst>
+   Upgrade 3D printers with camera and app control <texts/octoprint.rst>
 
 Previous projects:
 
