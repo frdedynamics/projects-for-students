@@ -19,6 +19,7 @@ Projects for you to do:
    3D simulation of the lab <texts/lab_gazebo.rst>
    Autonomous driving at the lab <texts/lab_routes.rst>
    Map and route the lab for cleaning <texts/robot_cleaner.rst>
+   Tibber, automate sustainability reporting <texts/tibber_sustain.rst>
 
 
 Previous projects:
