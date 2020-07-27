@@ -10,6 +10,7 @@ Projects for you to do:
 .. toctree::
    :maxdepth: 1
 
+   Filament recycling <texts/filament_recycling.rst>
    New studs on winter tyres for big trucks <texts/stud_machine.rst>
    Time registration system for the lab <texts/doodle_auto.rst>
    Engineers with a robot getting coffee <texts/auto_coffee.rst>
