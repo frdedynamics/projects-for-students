@@ -29,6 +29,7 @@ Previous projects:
 .. toctree::
    :maxdepth: 1
 
+   MATLAB Web App <texts/matlabwebapp.rst>
    Pally <texts/pally.rst>
    KUKA LBR iiwa + vision <texts/kuka_vision.rst>
    Autowall <texts/autowall.rst>
