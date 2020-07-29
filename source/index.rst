@@ -29,6 +29,7 @@ Previous projects:
 .. toctree::
    :maxdepth: 1
 
+   Turtlebot open manipulator controller <texts/turtlebot3arm.rst>
    MATLAB Web App <texts/matlabwebapp.rst>
    Pally <texts/pally.rst>
    KUKA LBR iiwa + vision <texts/kuka_vision.rst>
